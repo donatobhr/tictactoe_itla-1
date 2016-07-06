@@ -17,8 +17,6 @@ bool isValidInput(std::istream&);
 bool isAvailable(int , int );
 bool gameOver(); //implement this method
 
+#endif // TICTACTOE_H_
 
 
-
-
-#endif /* TICTACTOE_H_ */

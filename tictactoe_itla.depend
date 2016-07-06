@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1466391943 source:c:\users\donato\desktop\tictactoe_itla\main.cpp
+	"TicTacToe.h"
+
+1466107398 c:\users\donato\desktop\tictactoe_itla\tictactoe.h
+	<iostream>
+
+1466108559 c:\users\donato\desktop\tictactoe_itla\tictactoe.cpp
+	"TicTacToe.h"
+	<cstdlib>
+
+1466395896 source:c:\users\donato\desktop\tictactoe_itla\tictactoe.cpp
+	"TicTacToe.h"
+	<cstdlib>
+	<limits>
+
